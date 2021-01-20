@@ -14,4 +14,4 @@ Você abriu minha sacola de codigos;
 - 🧩 &nbsp; Eu estou buscando especialização em sistemas [API-first](https://daniloval.com/) e aplicações web desacopladas.
 - 🔧 &nbsp; Eu amo criar coisas, e agora quero tentar ajudar outras pessoas.
 - 🚀 &nbsp; Eu sou otimista e acredito que a tecnologia pode mudar a vida das pessoas, me ajude com [Feedbacks](https://daniloval.com/about) sobre o trabalho que estamos tentando construir.
-- 💬 &nbsp; Eu falo muito bobagem, mas tudo que você encontrar por ai são opiniões minhas e tão somente minhas.
+- 💬 &nbsp; Eu falo muita bobagem, mas tudo que você encontrar por aí são opiniões minhas e tão somente minhas.
