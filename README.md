@@ -8,7 +8,7 @@
 
 ### Olá! 👋
 
-Você abriu minha sacola de codigos;
+Você abriu minha sacola de códigos;
 
 - 🗒 &nbsp; Eu escrevo (tento) sobre minha jornada através da construção (e destruição) do meu website [Danilo Val](https://daniloval.com/).
 - 🧩 &nbsp; Eu estou buscando especialização em sistemas [API-first](https://daniloval.com/) e aplicações web desacopladas.
